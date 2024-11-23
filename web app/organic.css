@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.image-nav-bar {
+    height: 70px;
+    width: 70px;
+    
+}
+
+.background-nav-bar {
+    background-color: #edfaf9;
+    
+}
+
+#nav-bar-elements-6 {
+
+    font-family: 'Roboto';
+    color: blue;
+}
+
+#nav-bar-elements-1 {
+
+    font-family: 'Roboto';
+    color: blue;
+}
+
+#nav-bar-elements-2 {
+    color: blue;
+    font-family: 'Roboto';
+}
+
+#nav-bar-elements-3 {
+    color: blue;
+    font-family: 'Roboto';
+}
+
+#nav-bar-elements-4 {
+    color: blue;
+    font-family: 'Roboto';
+}
+
+#nav-bar-elements-5 {
+    color: blue;
+    font-family: 'Roboto';
+}
+
+.banner-home-section {
+    background-image: url("https://img.freepik.com/premium-photo/fresh-berries-black-background_275805-1.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-size: 45px;
+    font-family: 'Roboto';
+    font-weight: 500;
+}
+
+.banner-caption {
+    color: white;
+    font-family: 'Roboto';
+}
+
+.button-view-more {
+    background-image: linear-gradient(#a69f24, #bfba58);
+    height: 44px;
+    width: 120px;
+    border-width: 0px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Roboto';
+    margin-right: 14px;
+}
+
+.button-Order-Now {
+    background-color: transparent;
+    height: 44px;
+    width: 120px;
+    border-width: 2px;
+    border-radius: 5px;
+    color: orange;
+    font-family: 'Roboto';
+    margin-right: 14px;
+    border-color: orange;
+}
+
+.wcu-background-color {
+    background-color: #f2ffff;
+}
+
+.wcu-heading {
+    color: #323f4b;
+    font-family: 'Roboto';
+    font-size: 33px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+.wcu-description {
+    color: #383737;
+    font-family: 'Roboto';
+    font-size: 20px;
+}
+
+.wcu-card-image {
+    height: 200px;
+    width: 250px;
+}
+
+.wcu-card {
+    background-color: white;
+    margin: 13px;
+    padding: 14px;
+    border-radius: 10px;
+}
+
+.fast-heading {
+    color: #323f4b;
+    font-size: 28px;
+    font-weight: 600;
+    font-family: 'Roboto';
+}
+
+.wcu-description-card {
+    font-family: 'Roboto';
+}
+
+.span-style {
+    color: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.explore-menu-background-color {
+    background-color: #faf5f8;
+}
+
+.explore-card-image {
+    height: 170px;
+    border-radius: 16px;
+}
+
+.explore-menu-card-background-color {
+    background-color: white;
+    margin: 10px;
+    padding: 18px;
+    border-radius: 16px;
+}
+
+.explore-card-fruit-name {
+    color: #170f02;
+    font-weight: 500;
+    font-family: 'Roboto';
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.view-all-anchor {
+    color: #3ca653;
+    font-family: 'Roboto';
+    font-size: 16px;
+
+}
+
+.explore-button-view-more {
+    background-image: linear-gradient(blue, #5e9cf2);
+    height: 44px;
+    width: 120px;
+    border-width: 0px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Roboto';
+    margin-right: 14px;
+}
+
+.health-and-fresh-section {
+    background-image: linear-gradient(white, #edfafa);
+}
+
+.health-image {
+    height: 300px;
+    padding: 10px;
+}
+
+.fresh-healthy-section {
+    font-family: 'Roboto';
+    color: #727575;
+    font-weight: 300;
+}
+
+.button-fresh-order {
+    background-image: linear-gradient(#429429, #61c443);
+    height: 44px;
+    width: 120px;
+    border-width: 0px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Roboto';
+    margin-right: 14px;
+}
+
+.image-payment-delevery {
+    height: 250px;
+    border-radius: 20px;
+}
+
+.delivery-and-payment-backgorund-color {
+    background-color: white;
+}
+
+.payment-card-img {
+    height: 60px;
+    width: 70px;
+    margin-left: 20px;
+
+}
+
+.gift-section-background-color {
+    background-image: radial-gradient(#fff8db, #fae38c);
+    padding: 20px;
+}
+
+.image-gift {
+    height: 350px;
+
+}
+
+.button-view-more-gift {
+    background-image: linear-gradient(#a6a83b, #c7c94b);
+    height: 44px;
+    width: 120px;
+    border-width: 0px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Roboto';
+    margin-right: 14px;
+}
+
+.gift-voucher {
+    color: blue;
+    font-family: 'Roboto';
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.follow-us-section {
+    background-color: #e3faf8;
+
+}
+
+.icon {
+    color: #9c9c1f;
+    font-size: 30px;
+    margin-left: 25px;
+    background-color: #c1f5c8;
+    height: 70px;
+    width: 70px;
+    padding-top: 20px;
+    border-radius: 46px;
+
+}
+
+.footer-section {
+    background-image: radial-gradient(#89d1f5, #ddabeb);
+    text-align: center;
+}
+
+.thankyou {
+    color: #1a3482;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+}
